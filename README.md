@@ -1,4 +1,4 @@
-# pythoon_project
+# python_project
 created a python dice simulator using tkinter, which generate random dice value similar to when you play a dice game.
 
 Module used
